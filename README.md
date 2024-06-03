@@ -50,7 +50,7 @@
 
 <div align="center" >
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucasmartiliano&theme=vue&border_radius=5.0&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lucasmartiliano&theme=vue&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a>
 
 </div>
 
