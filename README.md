@@ -3,15 +3,6 @@
 <a href="Naruto gif"><img src="https://media.tenor.com/av3L_d_uIZIAAAAC/naruto-shippuden.gif" alt="GitHub Streak" /></a>
 <div align="center" >
 
-</div>
-
-<br>
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=300&color=00FF00&center=true&vCenter=true&repeat=true&random=false&width=700&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas+Martiliano;Tenho+23+anos;Eu+sou+um+Software+Developer;Seja+bem+vindo+ao+meu+perfil+%3AD" alt="Typing SVG" /></a>
-
-</div>
-
 <br>
 <br>
 
