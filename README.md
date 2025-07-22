@@ -1,7 +1,7 @@
 <div align="center" >
 
-<a href="Naruto gif"><img src="https://media.tenor.com/av3L_d_uIZIAAAAC/naruto-shippuden.gif" alt="GitHub Streak" /></a>
-<div align="center" >
+<h1 style="color: #00FF00">Meu nome é Lucas Martiliano e sou um Desenvolvedor Web!</h1>
+<h1 style="color: #00FF00">Seja Bem vindo</h1>
 
 <br>
 <br>
